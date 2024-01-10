@@ -1,0 +1,7 @@
+img {
+    width: 100px;
+    height: 200px;
+  
+ background-color: aqua;
+    .parent{
+        text-align: center;
